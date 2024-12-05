@@ -2,3 +2,6 @@ cmake
 dlib
 opencv-python
 face-recognition
+firebase-admin
+torch
+torchvision
